@@ -1,0 +1,6 @@
+#include "Gouvernement\functions.cpp" 
+#include "Iphone_X\functions.cpp"
+#include "Entreprise\functions.cpp"
+#include "WhitelistMenu\functions.cpp"
+#include "Interpol\functions.cpp"
+#include "Restrain\functions.cpp"
