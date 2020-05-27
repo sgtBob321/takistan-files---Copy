@@ -57,7 +57,7 @@ class maverick_weaponshop_cfg {
 				//--- item classname, price, condition, custom display name
 				//Handguns
 				{"nil", 0, "", "---Handguns---"},
-				{"hlc_Pistol_M11", 8000, "license_civ_gun", ""},
+				{"", 8000, "license_civ_gun", ""},
 				{"hlc_pistol_Mk25", 8000, "license_civ_gun", ""},
 				{"hlc_pistol_P226WestGerman", 8000, "license_civ_gun", ""},
 				{"hlc_Pistol_P228", 18000, "license_civ_gun", ""},
