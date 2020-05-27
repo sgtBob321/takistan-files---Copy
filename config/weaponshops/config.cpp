@@ -58,7 +58,7 @@ class maverick_weaponshop_cfg {
 				//Handguns
 				{"nil", 0, "", "---Handguns---"},
 				{"", 8000, "license_civ_gun", ""},
-				{"hlc_pistol_Mk25", 8000, "license_civ_gun", ""},
+				{"", 8000, "license_civ_gun", ""},
 				{"hlc_pistol_P226WestGerman", 8000, "license_civ_gun", ""},
 				{"hlc_Pistol_P228", 18000, "license_civ_gun", ""},
 				{"hlc_Pistol_M11A1", 18000, "license_civ_gun", ""},
